@@ -1,3 +1,3 @@
 # hello-world
-##Just learning how to use github
+Just learning how to use github
 Training
